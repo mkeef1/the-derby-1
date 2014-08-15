@@ -10,6 +10,7 @@ body{
 }
 
 .gambler{
+  vertical-align: top;
   display: inline-block;
   width: 250px;
   border: 1px solid #111111;
